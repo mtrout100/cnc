@@ -1,0 +1,2 @@
+# cnc
+cnc to learn
